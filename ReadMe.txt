@@ -3,7 +3,7 @@ Author: Yuqi Cao
 Time: Feb. 21st, 2018
 
 //improve introduction: March 12th, 2018
-It is written in Pycharm, Python 3.6.1
+It is written in Pycharm, Python 3.6.1 on Windows
 Python 2.* can also be used to compile it as well.
 
 NeocisAssessP1.py is designed for Part 1.
