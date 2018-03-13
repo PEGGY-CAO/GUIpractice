@@ -22,3 +22,5 @@ When user hits generate button, a circle will be generated according to blue dot
 Points could be deselected when toggle from blue back to grey.
 Circle center is the center of gravity of these dots.
 Radius is the avarage distance of these dots to circle center.
+
+myscript.py is used to generate .exe on windows.
